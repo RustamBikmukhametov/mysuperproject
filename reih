@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "version 777" > intel.html
+git add .
+git commit -m "NAZI" 
